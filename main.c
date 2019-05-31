@@ -1,6 +1,6 @@
 #include <stdio.h>
 #include <string.h>
-
+ 
 #define MAX_SIZE 50
 typedef struct phoneNumberList {
 	char name[10];
